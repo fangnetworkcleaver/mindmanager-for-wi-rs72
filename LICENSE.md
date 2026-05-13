@@ -1,4 +1,4 @@
-# 
+# Enhance MindManager for Windows with secure MindManager for Windows Workflow | collaboration + attachments, the #1 workflow. Includes collaboration and attachments for a smoother
 
 
 
